@@ -77,7 +77,7 @@
 
 <h2>Passo 16: Instalar Dependências para o Nginx</h2>
 <pre><code id="comando21">apt build-dep nginx</code>
-X</pre>
+</pre>
 <pre><code id="comando22">apt install uuid-dev</code>
 </pre>
 
