@@ -221,25 +221,3 @@ Include /etc/nginx/modsec/coreruleset-3.3.0/rules/*.conf</code>
 
 
     
-
-
-
-    <script>
-        // Função para copiar o conteúdo da caixa de código para a área de transferência
-        function copiarComando(id) {
-            const elemento = document.getElementById(id);
-            const texto = elemento.innerText;
-
-            const textarea = document.createElement('textarea');
-            textarea.value = texto;
-            document.body.appendChild(textarea);
-
-            textarea.select();
-            document.execCommand('copy');
-            document.body.removeChild(textarea);
-
-            alert('Comando copiado para a área de transferência: ' + texto);
-        }
-    </script>
-</body>
-</html>
