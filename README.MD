@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Configuração do ModSecurity com Nginx</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            max-width: 800px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ccc;
-            font-size: 16px;
-            line-height: 1.4;
-            overflow: auto;
-            position: relative;
-        }
-        code {
-            display: block;
-        }
-        .copy-button {
-            position: absolute;
-            top: 5px;
-            right: 5px;
-            padding: 5px 10px;
-            background-color: #333;
-            color: #fff;
-            border: none;
-            cursor: pointer;
-        }
-    </style>
 </head>
 <body>
   <h1>Configuração do ModSecurity com Nginx</h1>
