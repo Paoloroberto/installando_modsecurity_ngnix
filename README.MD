@@ -5,7 +5,6 @@
 
 <h2>Passo 1: Atualizar o Sistema</h2>
 <pre><code id="comando1">apt update</code>
-<button class="copy-button" onclick="copiarComando('comando1')">Copiar Comando</button>
 </pre>
 
 <h2>Passo 2: Instalar Dependências</h2>
