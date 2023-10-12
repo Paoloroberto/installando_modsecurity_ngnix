@@ -125,7 +125,6 @@
 
 <h2>Passo 25: Copiar o arquivo de mapeamento Unicode do ModSecurity</h2>
 <pre><code id="comando37">cp /usr/local/src/ModSecurity/unicode.mapping /etc/nginx/modsec/</code>
-<button class="copy-button" onclick="copiarComando('comando37')">Copiar Comando</button>
 </pre>
 
 <h2>Passo 26: Verificar a configuração do Nginx</h2>
