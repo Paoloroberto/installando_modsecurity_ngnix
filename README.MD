@@ -58,7 +58,6 @@
 
 <h2>Passo 13: Compilar e Instalar o ModSecurity</h2>
 <pre><code id="comando15">./build.sh</code>
-<button class="copy-button" onclick="copiarComando('comando15')">Copiar Comando</button>
 </pre>
 <pre><code id="comando16">./configure</code>
 </pre>
@@ -87,7 +86,7 @@
 
 <h2>Passo 18: Compilar o Módulo ModSecurity para Nginx</h2>
 <pre><code id="comando24">make modules</code>
-X</pre>
+</pre>
 
 <h2>Passo 19: Copiar o Módulo ModSecurity compilado</h2>
 <pre><code id="comando25">cp objs/ngx_http_modsecurity_module.so /usr/share/nginx/modules/</code>
