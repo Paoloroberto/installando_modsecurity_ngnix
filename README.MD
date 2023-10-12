@@ -53,7 +53,6 @@
 <pre><code id="comando13">git submodule init</code>
 </pre>
 <pre><code id="comando14">git submodule update</code>
-<button class="copy-button" onclick="copiarComando('comando14')">Copiar Comando</button>
 </pre>
 
 <h2>Passo 13: Compilar e Instalar o ModSecurity</h2>
@@ -90,7 +89,6 @@
 
 <h2>Passo 19: Copiar o Módulo ModSecurity compilado</h2>
 <pre><code id="comando25">cp objs/ngx_http_modsecurity_module.so /usr/share/nginx/modules/</code>
-<button class="copy-button" onclick="copiarComando('comando25')">Copiar Comando</button>
 </pre>
 
 <h2>Passo 20: Editar o arquivo de configuração do Nginx</h2>
