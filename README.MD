@@ -9,12 +9,10 @@
 
 <h2>Passo 2: Instalar Dependências</h2>
 <pre><code id="comando2">apt install make gcc build-essential autoconf automake libtool libfuzzy-dev ssdeep gettext pkg-config libcurl4-openssl-dev liblua5.3-dev libpcre3 libpcre3-dev libxml2 libxml2-dev libyajl-dev doxygen libcurl4 libgeoip-dev libssl-dev zlib1g-dev libxslt-dev liblmdb-dev libpcre++-dev libgd-dev</code>
-<button class="copy-button" onclick="copiarComando('comando2')">Copiar Comando</button>
 </pre>
 
 <h2>Passo 3: Instalar o Nginx</h2>
 <pre><code id="comando3">apt update</code>
-<button class="copy-button" onclick="copiarComando('comando3')">Copiar Comando</button>
 </pre>
 <pre><code id="comando4">apt install nginx-core nginx-common nginx nginx-full</code>
 <button class="copy-button" onclick="copiarComando('comando4')">Copiar Comando</button>
