@@ -170,5 +170,5 @@ Include /etc/nginx/modsec/coreruleset-3.3.0/rules/*.conf</code>
 <pre><code id="comando48">nginx -t</code>
 </pre>
 
-  ![Tux, the Linux mascot]
+   ![Tux, the Linux mascot](/assets/images/tux.png)
     
